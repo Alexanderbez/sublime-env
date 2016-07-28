@@ -1,0 +1,42 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_indent": true,
+	"auto_match_enabled": true,
+	"bold_folder_labels": true,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+	"default_encoding": "UTF-8",
+	"draw_white_space": "selection",
+	"font_face": "Monaco",
+	"font_options": "subpixel_antialias",
+	"font_size": 12.5,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"material_theme_accent_cyan": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_panel_separator": true,
+	"material_theme_tabs_separator": true,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80
+	],
+	"show_encoding": true,
+	"theme": "Material-Theme.sublime-theme",
+	"translateTabsToSpaces": true,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"wrap_width": 80
+}

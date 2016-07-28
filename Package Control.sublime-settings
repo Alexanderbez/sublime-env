@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"INI",
+		"JavaScript Completions",
+		"JSON Reindent",
+		"JSONLint",
+		"Markdown Preview",
+		"Material Theme",
+		"Oceanic Color Scheme",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-json",
+		"SublimeLinter-pyflakes"
+	]
+}
